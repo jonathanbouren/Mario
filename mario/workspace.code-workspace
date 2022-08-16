@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pro/game"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Новая папка"
+	}
+}
